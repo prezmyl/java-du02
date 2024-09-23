@@ -21,9 +21,9 @@ public class DrawingThread extends AnimationTimer {
 	@Override
 	public void handle(long now) {
 		// put your code here
-		//gc.setFill(Color.AQUA);
-		//gc.setStroke(Color.BLACK);
-		//gc.fillOval(10, 10, 20, 20);
+//		gc.setFill(Color.AQUA);
+//		gc.setStroke(Color.BLACK);
+//		gc.fillOval(10, 10, 20, 20);
 
 	}
 
